@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Matthew Thirkettle"
 title_separator          : "-"
 name                     : &name "Matthew Thirkettle"
-description              : &description "personal description"
+description              : &description "I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  My primary research interests include Econometrics, Networks, and Industrial Organization.   I have a particular interest in econometric methods for networks.  I am currently on the job market and I expect to graduate in Spring 2020."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MatthewThirkettle/MatthewThirkettle.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Matthew Thirkettle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate in Economics at Cornell University. Research interests: Econometrics, Networks, and IO.  On the job market 2019-2020."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
