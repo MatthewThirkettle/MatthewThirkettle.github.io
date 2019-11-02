@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Thirkettle"
-  avatar           : "profile.png"
+  avatar           : "IMG_8335_top.JPG"
   bio              : "Ph.D. candidate in Economics at Cornell University. Research interests: Econometrics, Networks, and IO.  On the job market 2019-2020."
   location         : "Ithaca, NY"
   employer         :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/5298468/matthew-thirkettle"
+  stackoverflow    : "matthew-thirkettle"
   steam            :
   tumblr           :
   twitter          : "ThirkettleMatt"
