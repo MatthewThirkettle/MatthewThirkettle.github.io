@@ -12,5 +12,5 @@ I am a Ph.D. candidate in Economics at Cornell University.  My primary research 
 
 My website is located at <https://matthewthirkettle.com>, which contains my CV and research materials.
 
-My job market paper can be downloaded [here](https://matthewthirkettle.github.io/files/Thirkettle_JMP.pdf).
+My job market paper can be downloaded [here](https://matthewthirkettle.github.io/files/Thirkettle_Job_Market_Paper.pdf).
 
