@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthew Thirkettle"
 title_separator          : "-"
 name                     : &name "Matthew Thirkettle"
-description              : &description "I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  My primary research interests include Econometrics, Networks, and Industrial Organization.   I have a particular interest in econometric methods for networks.  I am currently on the job market and I expect to graduate in Spring 2020."
+description              : &description "I am an Assistant Professor of Economics at Rice University. Research interests: Econometrics, Networks, and IO."
 url                      : https://MatthewThirkettle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MatthewThirkettle/MatthewThirkettle.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew Thirkettle"
   avatar           : "IMG_8335_top.JPG"
-  bio              : "Ph.D. candidate in Economics at Cornell University. Research interests: Econometrics, Networks, and IO.  On the job market 2019-2020."
+  bio              : "I am an Assistant Professor of Economics at Rice University. Research interests: Econometrics, Networks, and IO."
   location         : "Ithaca, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=AdilO-AAAAAJ"
-  email            : "mkt68@cornell.edu"
+  email            : "matthew.thirkettle@rice.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
