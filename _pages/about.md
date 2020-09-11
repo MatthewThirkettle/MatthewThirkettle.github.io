@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Cornell University.  My primary research interests include Econometrics, Networks, and Industrial Organization.   I have a particular interest in econometric methods for networks.  I am currently on the job market and I expect to graduate in Spring 2020.  
-
-My website is located at <https://matthewthirkettle.com>, which contains my CV and research materials.
+I an Assistant Professor of Economics at Rice University.  I joined the department in 2020 after receiving my Ph.D. from Cornell university.  My research focuses on econometric issues in social networks and in models of discrete choice under limited consideration. 
+ 
+My website is located at <https://matthewthirkettle.com>.
 
 My job market paper can be downloaded [here](https://matthewthirkettle.github.io/files/Thirkettle_Job_Market_Paper.pdf).
 
+My job market paper can be downloaded [here](https://matthewthirkettle.github.io/files/Thirkettle_Identification_Missing_Links.pdf).
